@@ -7,4 +7,7 @@ if (btn) {
         alert("You ran some TypeScript");
     };
 }
+window.loadData = (json) => {
+    alert(`Data is ${json}`);
+};
 //

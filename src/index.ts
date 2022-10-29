@@ -8,5 +8,8 @@ if(btn) {
   };
 }
 
+window.loadData = (json:string) => {
+    alert(`Data is ${json}`);
+}
 
 //

@@ -19,7 +19,10 @@ It's a template file, so you can use to start other projects.
 3. Open the jsDev.fmp12 file.
 4. Allow it to work in Dev mode.
 
-At this point you should see the web viewer on the layout load up with the HTML and JavaScript here. Edit the JavaScript or the HTML and you'll see the render in the web viewer update.
+At this point you should see the web viewer on the layout load up with the HTML and JavaScript here. Edit the index.ts or the index.html and you'll see the render in the web viewer update.
 
 ## Use this kit
 Now you're ready to use this kit to create awesome JS widgets.
+
+## Special Thanks
+Josh Willing for detail instructions on how to set up in the environment.
