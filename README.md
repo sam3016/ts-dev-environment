@@ -1,5 +1,7 @@
 # TS Dev Kit for FileMaker Developers
 
+Based on the template by Jeremy Brown from Integration Magic.
+
 *Develop, Render, and Deploy JavaScript for a FileMaker App*
 
 # This Kit
