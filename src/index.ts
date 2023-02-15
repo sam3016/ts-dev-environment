@@ -4,11 +4,11 @@
 const btn = document.querySelector("button");
 if(btn) {
   btn.onclick = function () {
-    alert("You ran some TypeScript");
+    window.FileMaker.PerformScriptWithOption("Show Dialog", "You ran some TypeScript", 5)
   };
 }
 
-window.loadData = (json:string) => {
+window.loadData = (json) => {
     alert(`Data is ${json}`);
 }
 
