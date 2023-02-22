@@ -1,10 +1,12 @@
-# JS Dev Kit for FileMaker Developers
+# TS Dev Kit for FileMaker Developers
+
+Based on the template by Jeremy Brown from Integration Magic.
 
 *Develop, Render, and Deploy JavaScript for a FileMaker App*
 
 # This Kit
 ## What it does
-This environment allows a FileMaker developer to start coding their widget and see the results right away in a FileMaker file. Once done developing, the can be inlined and pushed to the FileMaker file for use offline.
+This environment allows a FileMaker developer to start coding their widget in typescript and see the results right away in a FileMaker file. Once done developing, the can be inlined and pushed to the FileMaker file for use offline.
 <br/>
 It's a template file, so you can use to start other projects.
 ## Consists of
@@ -22,7 +24,7 @@ It's a template file, so you can use to start other projects.
 At this point you should see the web viewer on the layout load up with the HTML and JavaScript here. Edit the index.ts or the index.html and you'll see the render in the web viewer update.
 
 ## Use this kit
-Now you're ready to use this kit to create awesome JS widgets.
+Now you're ready to use this kit to create awesome TS widgets.
 
 ## Special Thanks
-Josh Willing for detail instructions on how to set up in the environment.
+Josh Willing for detail instructions on how to set up the environment and reference for type of FileMaker.PerformScriptWithOption.
